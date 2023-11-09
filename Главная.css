@@ -1,0 +1,260 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 660px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 241px;
+  height: auto;
+  background-image: none;
+  min-height: 313px;
+  margin: 35px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 11px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 293px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -313px auto 0 18px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 18px 559px 0 18px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0 559px 0 18px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 35px 559px 0 18px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 0 554px 0 23px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.25rem;
+  margin: 142px 947px 0 18px;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 0 559px 0 18px;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 52px 519px 31px 18px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 661px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 234px;
+    margin-top: 42px;
+    margin-right: 9px;
+    height: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -305px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-weight: 700;
+    margin-top: -314px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 377px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 377px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-weight: 700;
+    margin-right: 377px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-right: 377px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-weight: normal;
+    font-family: Roboto, sans-serif;
+    width: auto;
+    margin-right: 765px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    font-family: Roboto, sans-serif;
+    width: auto;
+    margin-right: 395px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    font-weight: normal;
+    margin-right: 337px;
+    margin-bottom: 33px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    margin-top: 212px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -292px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -315px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 157px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 157px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 157px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 157px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 527px;
+    margin-left: 18px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 157px;
+    margin-left: 18px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 117px;
+    margin-bottom: 31px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    margin-top: 263px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -382px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -243px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 5px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 7px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 1rem;
+    margin-top: 381px;
+    margin-right: 347px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-top: -180px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 685px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 329px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -456px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -235px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 29px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -18px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: 357px;
+    margin-right: 147px;
+  }
+}
